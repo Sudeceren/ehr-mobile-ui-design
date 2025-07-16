@@ -14,12 +14,6 @@ This project presents the UI/UX design of a mobile healthcare application, creat
 - MockFlow (UI/Wireframe Design)
 - Exported as PNG for visualization
 
-## 🖼️ Screenshots
-
-| Login | Doctor Panel |
-|-------|--------------|
-| ![Login Screen](Screenshots/login_screen.png) | ![Dashboard](Screenshots/Doctor Dashboard.png) |
-
 > This is a design-only project. No backend/frontend code implemented (yet).
 
 ---
