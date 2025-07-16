@@ -18,7 +18,7 @@ This project presents the UI/UX design of a mobile healthcare application, creat
 
 | Login | Doctor Panel |
 |-------|--------------|
-| ![Login Screen](Screenshots/login_screen.png) | ![Dashboard](Screenshots/doctor_dashboard.png) |
+| ![Login Screen](Screenshots/login_screen.png) | ![Dashboard](Screenshots/Doctor Dashboard.png) |
 
 > This is a design-only project. No backend/frontend code implemented (yet).
 
